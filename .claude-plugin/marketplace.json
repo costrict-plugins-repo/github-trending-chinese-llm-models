@@ -1,0 +1,15 @@
+{
+  "name": "aisa-provider",
+  "owner": {
+    "name": "AIsa",
+    "url": "https://aisa.one"
+  },
+  "plugins": [
+    {
+      "name": "aisa-provider",
+      "source": "./",
+      "description": "Unified API gateway for China's top AI models",
+      "version": "1.0.0"
+    }
+  ]
+}
